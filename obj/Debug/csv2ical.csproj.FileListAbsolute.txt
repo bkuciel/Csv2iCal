@@ -1,0 +1,6 @@
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\bin\Debug\csv2ical.exe.config
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\bin\Debug\csv2ical.exe
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\bin\Debug\csv2ical.pdb
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\obj\Debug\csv2ical.csprojResolveAssemblyReference.cache
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\obj\Debug\csv2ical.exe
+c:\users\akkar\documents\visual studio 2017\Projects\csv2ical\csv2ical\obj\Debug\csv2ical.pdb
